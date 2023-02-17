@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item>
+    <Name>Cateter</Name>
+    <Stock>24</Stock>
+    <History>
+      <InOutPut>
+        <User>Aldo</User>
+        <Date>2020-12-21T02:22:04.3187903-08:00</Date>
+        <Change>20</Change>
+      </InOutPut>
+      <InOutPut>
+        <User>Paul</User>
+        <Date>2020-12-21T13:34:29.4001025-08:00</Date>
+        <Change>4</Change>
+      </InOutPut>
+    </History>
+  </Item>
+  <Item>
+    <Name>Jeringas</Name>
+    <Stock>15</Stock>
+    <History>
+      <InOutPut>
+        <User>Arely</User>
+        <Date>2020-12-21T02:22:18.187294-08:00</Date>
+        <Change>15</Change>
+      </InOutPut>
+    </History>
+  </Item>
+  <Item>
+    <Name>Bisturi</Name>
+    <Stock>12</Stock>
+    <History>
+      <InOutPut>
+        <User>Omar</User>
+        <Date>2020-12-21T02:25:43.1970589-08:00</Date>
+        <Change>12</Change>
+      </InOutPut>
+    </History>
+  </Item>
+</ArrayOfItem>
